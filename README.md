@@ -20,3 +20,4 @@ Requires Python 2 requests && re.
 ```fix 
 This script was stolen from me by someone named "Nycto". He steals many scripts from people and claims them as his own. Easily confirmed by a quick look at his repos. 
 ```
+### **Code compiled**
